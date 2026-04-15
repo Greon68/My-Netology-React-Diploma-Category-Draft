@@ -22,6 +22,8 @@ export const HomePage = ()=> {
             </section>
             <section className="catalog">
                 <h2 className="text-center">Каталог</h2>
+                <h2 className="text-center"> Компонент на доработке </h2>
+                <h3 className="text-center"> Весь функционал можно проследить нажав на кнопку "Каталог" в главном меню</h3>
                 {/* <Loader/> */}
                 <CatalogData/>
                 
